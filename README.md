@@ -1,3 +1,4 @@
+![logo](https://github.com/lamialamia2/lamialamia2/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Lamia Akter</h1>
 <h3 align="center">To learn coding...</h3>
 
