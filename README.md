@@ -1,21 +1,90 @@
-![logo](https://github.com/lamialamia2/lamialamia2/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Lamia Akter</h1>
-<h3 align="center">To learn coding...</h3>
+<!-- CLEAN HEADER -->
+<img src="https://github.com/lamialamia2/lamialamia2/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamialamia2&label=Profile%20views&color=0e75b6&style=flat" alt="lamialamia2" /> </p>
+<h1 align="center">Hi, I'm Lamia Akter</h1>
+<h3 align="center">Developer in Progress | Learning Systems, Code, and ERP</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lamiyalamia2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lamiyalamia2002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lamia-akter-682898348/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamia-akter-286655245" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/1BZb5w1ZFH/
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.me/" height="30" width="40" /></a>
-<a href="https://instagram.com/lami_ya71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lami_ya71" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lamialamia2&label=Profile%20Views&color=grey&style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamialamia2&show_icons=true&locale=en&layout=compact" alt="lamialamia2" /></p>
+## 🔧 About Me
+- Currently learning: **C, C++, Java, HTML, CSS, MySQL, Odoo**
+- Interested in: **Backend Development, ERP Systems, Database Design**
+- Focused on: **problem-solving, clean code, and understanding system design**
+- Goal: Become a **skilled developer** capable of building real-world systems
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamialamia2&show_icons=true&locale=en" alt="lamialamia2" /></p>
+---
+
+## ⚙️ Odoo & ERP Learning Path
+Understanding how real businesses run using ERP:
+
+- Odoo concepts: **models, views, actions, menus, security**
+- Workflows: **Sales → Purchase → Inventory → Accounting**
+- Hands-on: building small custom modules to learn structure
+- Long-term: Odoo development, customization & integration
+
+> ERP = logic, structure, and real-world processes.
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,git,linux" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" height="40" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <!-- OPTION 3: RADICAL THEME -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lamialamia2&show_icons=true&theme=radical&hide_border=true" 
+    alt="GitHub stats" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamialamia2&layout=compact&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=lamialamia2&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    height="180"
+  />
+</p>
+
+---
+
+## 📡 Connect With Me
+
+<p>
+  <a href="https://twitter.com/lamiyalamia2002"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a>
+  <a href="https://www.linkedin.com/in/lamia-akter-682898348/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+  <a href="https://www.facebook.com/share/1BZb5w1ZFH/"><img src="https://skillicons.dev/icons?i=facebook" height="35"/></a>
+  <a href="https://instagram.com/lami_ya71"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
+</p>
+
+---
+
+## 🗂 Current Focus
+- Strengthening programming fundamentals  
+- Writing cleaner & more structured code  
+- Understanding architecture behind **ERP & backend systems**  
+- Preparing to build and maintain **real Odoo modules**
+
+---
+
+<p align="center"><b>“Write code that makes sense — not noise.”</b></p>
