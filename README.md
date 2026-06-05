@@ -1,5 +1,5 @@
 <!-- CLEAN HEADER -->
-<img src="https://github.com/lamialamia2/lamialamia2/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" width="100%">
+<img src="https://github.com/lamialamia2/lamialamia2/blob/main/lamia_akter_logo.png" width="100%">
 
 <h1 align="center">Hi, I'm Lamia Akter</h1>
 <h3 align="center">Developer in Progress | Learning Systems, Code, and ERP</h3>
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=lamialamia2&label=Profile%20Views&color=5B8DEF&style=for-the-badge" />
 </p>
 
----
+
 
 ## 🔧 About Me
 - Currently learning: **C, C++, Java, HTML, CSS, MySQL, Odoo**
