@@ -32,50 +32,73 @@ Understanding how real businesses run using ERP:
 
 ## 🛠 Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,git,linux" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,mysql,git,linux" height="42" />
+  &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" height="42" />
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <!-- OPTION 3: RADICAL THEME -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lamialamia2&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub stats" 
-    height="170"
-  />
-</p>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamialamia2&theme=github" width="100%" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamialamia2&layout=compact&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=lamialamia2&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
-    height="180"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lamialamia2&theme=github-compact&area=true&hide_border=true"
+    alt="Lamia's GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
 ---
 
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamialamia2&theme=github" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lamialamia2&theme=github" width="48%" />
+</p>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=lamialamia2&hide_border=true&background=F7F9FB&ring=1F4E79&fire=1F4E79&currStreakNum=1F4E79&sideNums=333333&currStreakLabel=1F4E79&sideLabels=555555&dates=777777" 
+    alt="GitHub Streak" 
+    width="100%" 
+  />
+</p>
+---
+
 ## 📡 Connect With Me
 
-<p>
-  <a href="https://twitter.com/lamiyalamia2002"><img src="https://skillicons.dev/icons?i=twitter" height="35"/></a>
-  <a href="https://www.linkedin.com/in/lamia-akter-682898348/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
-  <a href="https://www.facebook.com/share/1BZb5w1ZFH/"><img src="https://skillicons.dev/icons?i=facebook" height="35"/></a>
-  <a href="https://instagram.com/lami_ya71"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
+<p align="center">
+  <a href="https://twitter.com/lamiyalamia2002">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/lamia-akter-682898348/">
+    <img src="https://img.shields.io/badge/LinkedIn-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1BZb5w1ZFH/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/lami_ya71">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+  </a>
 </p>
+
+---
 
 ---
 
