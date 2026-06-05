@@ -93,7 +93,7 @@ Understanding how real businesses run using ERP:
     <img src="https://img.shields.io/badge/Facebook-5B8DEF?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/lami_ya71">
+  <a href="https://instagram.com/la.mi.ya__">
     <img src="https://img.shields.io/badge/Instagram-5B8DEF?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
 </p>
