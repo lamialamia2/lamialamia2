@@ -5,7 +5,7 @@
 <h3 align="center">Developer in Progress | Learning Systems, Code, and ERP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lamialamia2&label=Profile%20Views&color=grey&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lamialamia2&label=Profile%20Views&color=5B8DEF&style=for-the-badge" />
 </p>
 
 ---
@@ -16,7 +16,6 @@
 - Focused on: **problem-solving, clean code, and understanding system design**
 - Goal: Become a **skilled developer** capable of building real-world systems
 
----
 
 ## ⚙️ Odoo & ERP Learning Path
 Understanding how real businesses run using ERP:
@@ -38,24 +37,23 @@ Understanding how real businesses run using ERP:
   <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" height="42" />
 </p>
 
----
+
 
 ## 📊 GitHub Statistics
 
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamialamia2&theme=github" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamialamia2&theme=nord_bright" width="100%" />
 
 </div>
 
----
+
 
 ## 📈 GitHub Activity Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lamialamia2&theme=github-compact&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lamialamia2&bg_color=F5F9FF&color=2F80ED&line=5B8DEF&point=2F80ED&area=true&area_color=5B8DEF&hide_border=true"
     alt="Lamia's GitHub Activity Graph"
     width="100%"
   />
@@ -66,16 +64,18 @@ Understanding how real businesses run using ERP:
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamialamia2&theme=github" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lamialamia2&theme=github" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamialamia2&theme=nord_bright" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lamialamia2&theme=nord_bright" width="48%" />
 </p>
+
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=lamialamia2&hide_border=true&background=F7F9FB&ring=1F4E79&fire=1F4E79&currStreakNum=1F4E79&sideNums=333333&currStreakLabel=1F4E79&sideLabels=555555&dates=777777" 
+    src="https://streak-stats.demolab.com?user=lamialamia2&hide_border=true&background=F5F9FF&ring=5B8DEF&fire=5B8DEF&currStreakNum=2F80ED&sideNums=333333&currStreakLabel=2F80ED&sideLabels=555555&dates=777777" 
     alt="GitHub Streak" 
     width="100%" 
   />
 </p>
+
 ---
 
 ## 📡 Connect With Me
@@ -86,26 +86,24 @@ Understanding how real businesses run using ERP:
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/lamia-akter-682898348/">
-    <img src="https://img.shields.io/badge/LinkedIn-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-5B8DEF?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   &nbsp;
   <a href="https://www.facebook.com/share/1BZb5w1ZFH/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Facebook-5B8DEF?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/lami_ya71">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Instagram-5B8DEF?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
 </p>
 
----
 
----
 
 ## 🗂 Current Focus
 - Strengthening programming fundamentals  
 - Writing cleaner & more structured code  
-- Understanding architecture behind **ERP & backend systems**  
+- Understanding architecture behind **ERP & backend systems**
 - Preparing to build and maintain **real Odoo modules**
 
 ---
